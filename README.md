@@ -1,9 +1,13 @@
 Features:
 
 User Authentication: Secure login and logout functionality.
+
 Session Management: Maintain user sessions and restrict access to authenticated users.
+
 Form Handling: Process and validate user inputs.
+
 Responsive Design: Enhanced user interface with responsive and modern design elements using CSS.
+
 Error Handling: Informative feedback for invalid login attempts and session expirations.
 
 
